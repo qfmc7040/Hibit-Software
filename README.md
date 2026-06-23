@@ -101,3 +101,34 @@ HiBit Uninstaller 是一款轻量、免费、无广告的 Windows 平台第三�
 | 强制卸载后软件仍出现在列表 | 重启电脑后刷新列表；若仍存在，使用 `注册表清理` 搜索相关键值 |
 | 扫描残留提示“访问被拒绝”   | 以管理员身份运行；关闭杀毒软件实时防护后重试                 |
 | 误删了重要文件             | 立即停止写入操作，使用数据恢复工具（如 Recuva）尝试找回      |
+
+---
+
+### 如果你觉得这些应用有帮助，欢迎你来支持作者通过自愿捐款。你的支持让我承担了必需品成本，包括搭建和维护新服务器。
+
+### 由于国际制裁，我无法使用传统支付 所以目前只有加密货币捐赠是唯一的选择。
+
+### 如果你选择捐献，欢迎事后给我发邮件，我会的 很高兴能亲自感谢你的支持。
+```html copy
+HiBitSoftware@gmail.com
+```
+```html copy
+HiBitSoftware@proton.me
+```
+比特币（BTC）
+```html copy
+BC1q0erngyld45nptnlgSMDV6JMXQSgAmwDDW7G30R
+```
+以太坊（网络代码：ERC20 / ETH）
+```html copy
+0x0909875E50e476E8850c9fe9dBe645FA95aA6525
+```
+USDT（网络代码：TRC20）
+```html copy
+TVTM6BWpeApmGSTAVbHy7ufn4sHx3WbP77
+```
+USDT（网络：BEP20 / BSC）
+```html copy
+0x0909875E50e476E8850c9fe9dBe645FA95aA6525
+```
+发送前请确保你使用的是正确的网络代码。
