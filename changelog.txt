@@ -1,0 +1,759 @@
+HiBit Uninstaller Changelog
+-------------------------------------
+
+HiBit Uninstaller 4.0.10 (2026-02-10)
+
+  Added a File & Registry Finder tool.
+  Added a Duplicate File Finder tool.
+  Added a Disk Analyzer tool.
+  Added Connection Manager tool.
+  Added tree view for leftovers search results.
+  Added support for custom folders in the Empty Folder Cleaner and Shortcuts Cleaner tools.
+  Added a donation feature to support our work.
+  Redesigned and added new features to the Process Manager tool.
+  Improved the performance of Installation Monitoring.
+  Improved the Windows Store Apps Manager performance.
+  Improved the speed and accuracy of the Junk Files Cleaner tool.
+  Improved the leftovers search algorithm, achieving 30% faster performance.
+  Improved user interface.
+  Fixed all known bugs.
+
+
+HiBit Uninstaller 3.2.70 (2025-08-24)
+
+  Improved speed and accuracy of advanced cleaner in the Junk Files Cleaner tool.
+  Improved cleaning of Chromium-based browser cache in the Junk Files Cleaner tool.
+  Improved leftovers search algorithm.
+  Fixed minor bugs.
+
+
+HiBit Uninstaller 3.2.55 (2025-02-18)
+
+  Improved leftovers search algorithm.
+  Improved French language.
+
+
+HiBit Uninstaller 3.2.50 (2025-01-15)
+
+  Added support for UWP apps in Context Menu Manager tool.
+  Improved detection of UWP apps in Startup Manager tool.
+  Improved leftovers search algorithm.
+  Updated VirusTotal API.
+  Fixed minor bugs.
+
+
+HiBit Uninstaller 3.2.40 (2024-09-25)
+
+  Added Vietnamese and Polish languages.
+  Improved Turkish language.
+  Improved Junk Files Cleaner performance.
+  Improved leftovers search algorithm.
+  Fixed minor bugs.
+
+
+HiBit Uninstaller 3.2.30 (2024-07-07)
+
+  Added Danish language.
+  Improved leftovers search algorithm.
+  Fixed minor bugs.
+
+
+HiBit Uninstaller 3.2.20 (2024-05-19)
+
+  Added Auto scan option in the Registry Cleaner tool.
+  Improved app size calculation.
+  Improved leftovers search algorithm.
+  Fixed minor bugs.
+
+
+HiBit Uninstaller 3.2.10 (2024-04-08)
+
+  Added settings window in Junk Files Cleaner tool, Common Cleaner section.
+  Improved cleaning of temporary files and logs in the Junk Files Cleaner tool.
+  Improved deletion of files during system restart.
+  Improved leftovers search algorithm.
+  Fixed minor bugs.
+
+
+HiBit Uninstaller 3.1.95 (2024-03-08)
+
+  Improved leftovers search algorithm.
+  GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 3.1.90 (2024-02-18)
+
+  Improved leftovers search algorithm.
+  Improved "Startup Manager" performance.
+  Improved "Junk Files Cleaner" performance.
+  Fixed reported bugs.
+
+
+HiBit Uninstaller 3.1.81 (2024-01-23)
+
+  Redesigned and improved VirusTotal scanner tool.
+  Added ability to use private API in VirusTotal scanner tool.
+  Improved leftovers search algorithm.
+  Updated all languages.
+  GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 3.1.70 (2023-10-25)
+
+  Added Chromium-based browser cache clearing option in junk files cleaner.
+  Added Hungarian language.
+  Improved leftovers search algorithm.
+  GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 3.1.62 (2023-09-16)
+
+  Fixed reported bugs.
+
+
+HiBit Uninstaller 3.1.60 (2023-09-10)
+
+  Updated traditional Chinese and Spanish language.
+  Improved leftovers search algorithm.
+  Fixed minor bugs.
+
+
+HiBit Uninstaller 3.1.50 (2023-08-28)
+
+  Added traditional Chinese language.
+  Improved leftovers search algorithm.
+  GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 3.1.40 (2023-08-05)
+
+  Added ability to remove Waterfox and Floorp cache in the Junk Files Cleaner tool.
+  Improved leftovers search algorithm.
+  GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 3.1.25 (2023-05-21)
+
+  Improved leftovers search algorithm.
+  Fixed minor bugs.
+
+
+HiBit Uninstaller 3.1.20 (2023-04-29)
+
+  Improved "Force Uninstall" performance.
+  Improved leftovers search algorithm.
+  Replaced "Windows 10 Dark" theme with "Windows 11 Dark".
+  Fixed minor bugs.
+
+
+HiBit Uninstaller 3.1.10 (2023-03-24)
+
+  Added "Show Details" option in Backups Manager.
+  Added ability to delete old backups automatically.
+  Improved "Junk Files Cleaner" performance.
+  Improved leftovers search algorithm.
+  GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 3.0.25 (2022-12-17)
+
+  Added Backup/Restore settings button in About window.
+  Improved "Empty Folder Cleaner" performance.
+  Improved leftovers search algorithm.
+  Minor bugs fixes.
+
+
+HiBit Uninstaller 3.0.20 (2022-12-10)
+
+  Improved "Junk Files Cleaner" performance.
+  Improved leftovers search algorithm.
+  Fixed all reported bugs.
+
+
+HiBit Uninstaller 3.0.15 (2022-12-06)
+
+  Improved leftovers search algorithm.
+  GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 3.0.10 (2022-12-03)
+
+  Added internal database of program logs for better finding leftovers.
+  Added ability to backup registry and files before cleaning leftovers.
+  Added support for custom cleaning of files/folders in Junk Files Cleaner.
+  Added the ability to show programs that start from task in Startup Manager.
+  Added the ability to change the default search engine according to the selected language.
+  Added the ability to change the font size of lists by pressing ctrl + (+/-).
+  Improved Context Menu Manager performance.
+  Improved Installation Monitoring performance.
+  Improved leftovers search algorithm.
+  Improved user interface.
+  Updated all languages.
+  Fixed all known bugs.
+
+
+HiBit Uninstaller 2.7.70 (2022-08-05)
+
+  Improved leftovers search algorithm.
+  GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 2.7.62 (2022-04-15)
+
+  Minor bugs fixes.
+
+
+HiBit Uninstaller 2.7.60 (2022-04-05)
+
+  Added the ability to display all system context menus in the "Context Menu Manager" tool.
+  Added the ability to manage reports.
+  Improved leftovers search algorithm.
+  Improved Installation Monitoring performance.
+  Improved GUI and fixed all reported bugs.
+
+
+HiBit Uninstaller 2.7.47 (2022-01-28)
+
+  Minor bugs fixes.
+
+
+HiBit Uninstaller 2.7.45 (2022-01-25)
+
+  Improved leftovers search algorithm.
+  Improved GUI and fixed all known bugs.
+
+
+HiBit Uninstaller 2.7.40 (2022-01-14)
+
+  Added Slovenian language.
+  Fixed all reported bugs.
+
+
+HiBit Uninstaller 2.7.35 (2022-01-06)
+
+  Added "Clipboard" and "Recent Document" options in the Junk Files Cleaner.
+  Improved leftovers search algorithm.
+  Fixed all reported bugs.
+
+
+HiBit Uninstaller 2.7.30 (2022-01-03)
+
+  Added support "Send To" menu in the Context Menu Manager tool.
+  Added "Block New Processes" option in the Processes Manager tool.
+  Improved the Windows Store Apps Manager performance and added more features.
+  Improved the Installation Monitoring performance.
+  Improved leftovers search algorithm.
+  Improved GUI and fixed all known bugs.
+
+
+HiBit Uninstaller 2.7.15 (2021-12-03)
+
+  Improved GUI and fixed all reported bugs.
+
+
+HiBit Uninstaller 2.7.10 (2021-11-29)
+
+  Added Arabic language. 
+  Added reporting tool.
+  Added support for UWP apps in Startup Manager.
+  Added the ability to save app settings and data next to the program executable file in the portable version.
+  Added reset settings button in About window.
+  Added the ability to change the font size of lists by pressing ctrl and Scroll wheel.
+  Added the ability to select programs by pressing ctrl and clicking them.
+  Added keyboard shortcuts like Ctrl + U, Ctrl + F, Ctrl + T  and so on.
+  Show apps icon in Windows Store Apps Manager.
+  Fixed an issue with displaying app names in Windows Store Apps Manager.
+  Improved leftovers search algorithm.
+  Improved detect program's install date.
+  Improved GUI and fixed all known bugs.
+
+
+HiBit Uninstaller 2.6.25 (2021-10-24)
+
+  Improved leftovers search algorithm.
+  GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 2.6.20 (2021-10-02)
+
+  Improved leftovers search algorithm.
+  Improved "File Shredder" performance and added more features.
+  GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 2.6.15 (2021-06-30)
+
+  Compatible with Windows 11 preview.
+  Updated All languages.
+  Improved leftovers search algorithm.
+
+
+HiBit Uninstaller 2.6.10 (2021-06-25)
+
+  Added ability to detect program update in "Installation Monitoring".
+  Added ability to change the priority of the program before start uninstalling.
+  Added ability to hide or show columns in the list of programs.
+  Added ability to run the tools separately by pressing the Shift key before running the tool.
+  Added "Tools Shortcut Manager" tool.
+  Added report to view and save uninstalled program details.
+  Improved leftovers search algorithm and speed.
+  Improved overall program performance.
+  Minor bugs fixes.
+
+
+HiBit Uninstaller 2.5.95 (2021-01-24)
+
+  Improved leftovers search algorithm.
+  Fixed reported bugs.
+
+
+HiBit Uninstaller 2.5.90 (2021-01-07)
+
+  Added ability to remove Cent Browser cache in the Junk Files Cleaner tool.
+  Added ability to schedule cleaning tools in the Scheduler Task Manager tool.
+  Improved leftovers search algorithm.
+  Minor bugs fixes.
+
+
+HiBit Uninstaller 2.5.80 (2021-01-02)
+
+  Improved leftovers search algorithm.
+  Fixed reported bugs.
+
+
+HiBit Uninstaller 2.5.70 (2020-12-05)
+
+  Improved leftovers search algorithm.
+  Improved "Process Manager" performance and added more features.
+  Minor bugs fixes.
+
+
+HiBit Uninstaller 2.5.60 (2020-11-02)
+
+  Added "Type" column that specifies whether the program is 64-bit or 32-bit.
+  Added "Edit Info" option on the main menu.
+  Improved Installation monitoring function.
+  Improved scheduler Task Manager performance.
+  GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 2.5.45 (2020-10-10)
+
+  Improved Installation monitoring function.
+  Improved leftovers search algorithm.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 2.5.40 (2020-10-02)
+
+  German and Swedish languages were added.
+  Chinese language is updated.
+  Improved Installation monitoring function.
+  A bug was fixed in the leftovers search algorithm.
+  Two bugs were fixed in the registry cleaner.
+  Minor bugs fixes.
+
+
+HiBit Uninstaller 2.5.35 (2020-09-25)
+
+  Gray color and the ability to select the desired color for the program header added.
+  "Windows 10 SlateGray" and "Cobalt XEMedia" themes added.
+  Italian language updated.
+  Many bugs fixed.
+
+
+HiBit Uninstaller 2.5.30 (2020-09-20)
+
+  Spanish, French and Dutch languages added.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 2.5.25 (2020-09-15)
+
+  Korean language added.
+  Improved "installation monitoring" function.
+  Leftovers search algorithm improved.
+  Many bugs fixed.
+
+
+HiBit Uninstaller 2.5.20 (2020-09-11)
+
+  "Windows Store Apps Manager" performance improved.
+  Leftovers search algorithm improved.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 2.5.15 (2020-09-03)
+
+  After rebooting the system, the program will run automatically to continue uninstalling.
+  Russian language is updated.
+  Reported bugs fixed.
+
+
+HiBit Uninstaller 2.5.10 (2020-09-01)
+
+  Ability to continue uninstalling after rebooting the system.
+  "Installation Monitoring" tool added.
+  "Hide Microsoft Entries" option added to the "Processes Manager".
+  "Junk Files Cleaner" performance Improved.
+  Leftovers search algorithm improved.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 2.3.50 (2020-03-28)
+
+  Leftovers search algorithm improved.
+  "Junk Files Cleaner" performance Improved.
+  "Empty Folder Cleaner" performance Improved.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 2.3.40 (2020-03-14)
+
+  "windows updates manager" tool added.
+  Various translations updated.
+  Leftovers search algorithm improved.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 2.3.25 (2020-03-02)
+
+  Various translations updated.
+  Minor bugs fixes.
+
+
+HiBit Uninstaller 2.3.20 (2020-02-25)
+
+  Italian language added.
+  Persian and Chinese language updated.
+  Leftovers search algorithm improved.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 2.3.10 (2020-02-16)
+
+  Theme support added.
+  Chinese language added.
+  Leftovers search algorithm improved.
+  "Browser Extension Manager" performance Improved and more features added.
+  "Junk Files Cleaner" performance Improved.
+  Windows XP support Removed.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 2.2.20 (2019-09-22)
+
+  Improved scanning algorithms for leftovers.
+  Improved speed of scanning for leftovers. 
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 2.2.10 (2019-07-18)
+
+  Added support for 'Microsoft Edge Dev'(Junk Files Cleaner). 
+  Improved scan leftovers.
+  Improved "Context Menu Manager".
+  Improved "System Restore Manager".
+  Minor bug fixes.
+
+
+HiBit Uninstaller 2.1.80 (2019-04-16)
+
+  Improved scan leftovers.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 2.1.70 (2019-03-25)
+
+  Improved scan leftovers.
+  Improved "Junk Files Cleaner" performance.
+  Improved "Context Menu Manager" performance.
+  Minor GUI improvements.
+
+
+HiBit Uninstaller 2.1.60 (2019-02-17)
+
+  Improved scan leftovers.
+  Improved "Services Manager" performance and added more features.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 2.1.50 (2019-01-26)
+
+  Improved scan leftovers.
+  Improved "Process Manager" performance and added more features.
+  Improved "Startup Manager" performance.
+  Improved "Junk Files Cleaner" performance.
+  Improved "Registry Cleaner" performance.
+  Improved overall program performance.
+  Minor bug fixes.
+
+
+HiBit Uninstaller 2.1.30 (2018-12-30)
+
+  Improved Scan leftovers speed.
+  Improved "Junk Files Cleaner" performance.
+  Update "Brazilian Portuguese" language.
+  Minor bug fixes.
+
+
+HiBit Uninstaller 2.1.26 (2018-11-25)
+
+  Added "Brazilian Portuguese" language.
+  Improved scan leftovers.
+
+
+HiBit Uninstaller 2.1.25 (2018-11-21)
+
+  Added a few partial capabilities.
+  Minor bug fixes.
+
+
+HiBit Uninstaller 2.1.23 (2018-11-13)
+
+  Improved scan leftovers.
+  Improved User Interface.
+  Minor bug fixes.
+
+
+HiBit Uninstaller 2.1.20 (2018-11-05)
+
+  Improved scan leftovers.
+  Fixed the problem of unable to create system restore point in Win 10 Version 1809.
+  Added a few partial capabilities.
+  Minor bug fixes.
+
+
+HiBit Uninstaller 2.1.15 (2018-10-25)
+
+  Improved scan leftovers.
+  Fix font size problem on some systems.
+  Russian language updated.
+  Minor GUI improvements.
+
+
+HiBit Uninstaller 2.1.10 (2018-10-22)
+
+  Added "Program Components Manager" tool.
+  Added option to Hide program from list.
+  Added a few partial capabilities.
+  Update Turkish language.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 2.0.50 (2018-10-03)
+
+  Added "Force Uninstall" tool.
+  Improved scan leftovers.
+  Improved Registry Cleaner performance.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 2.0.32 (2018-09-23)
+
+  Added Turkish language.
+  Minor bug fixes.
+
+
+HiBit Uninstaller 2.0.30 (2018-09-20)
+
+  Improved scan leftovers.
+  Improved decection of app install location for some cases.
+  Improved Empty Folder Cleaner performance.
+  Improved Update Center performance.
+  Icons display speed has increased.
+  Other minor bug fixes.
+  Minor GUI improvements.
+
+
+HiBit Uninstaller 2.0.22 (2018-09-16)
+
+  Added Russian and Persian language.
+  Added cleaning of Cache in 'Yandex Browser' and 'Windows Store Apps'.(Junk Files Cleaner)
+  Added cleaning of Log in 'VMware', 'NVIDIA' and 'Adobe' programs.(Junk Files Cleaner)
+  Improved Startup Manager performance and added more features.
+  Improved Processes Manager performance.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 2.0.10 (2018-09-09)
+
+  Added multi-language support.
+  Added "File Shredder" tool.
+  Added "Update Center" tool.
+  Added ability to batch uninstall Apps.(Windows Store Apps Manager)
+  Added option to Uninstall Chrome extension.(Browser Extension Manager)
+  Added ability to change the application header color.
+  Added a few partial capabilities.
+  Improved the loading speed of programs info.
+  Improved scan leftovers.
+  Improved User Interface.
+  Improved Junk Files Cleaner performance and added more features.
+  Improved Windows Store Apps Manager performance.
+  Improved Browser Extension Manager performance.
+  Improve virustotalScanner Performance.
+  Improved overall program performance.
+  The main app icon changed.
+  App size dropped.
+  Many bugs fixed.
+
+HiBit Uninstaller 1.4.67 (2018-04-21)
+
+  Improve the performance and interface.
+  Minor bugs fixed.
+
+
+HiBit Uninstaller 1.4.65 (2018-04-13)
+
+  Improved scan leftovers.
+  Added virustotal detection ratio column.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 1.4.45 (2018-04-04)
+
+  Improved scan leftovers.
+  Improved Registry Cleaner.
+  Improved Startup Manager.
+  Improved Services Manager.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 1.4.40 (2018-03-19)
+
+  Remember sort criteria and main window position between app launches.
+  Improved scan leftovers.
+  Improved Registry Cleaner.
+  Improved System Restore Manager.
+  Minor bugs fixed.
+
+
+HiBit Uninstaller 1.4.38 (2018-03-18)
+
+  Minor bugs fixed.
+
+
+HiBit Uninstaller 1.4.37 (2018-03-17)
+
+  Improved scan leftovers.
+  Improved Junk Files Cleaner performance.
+  Improved "modify" option.
+  Minor GUI improvements.
+  Many bugs fixed.
+
+
+HiBit Uninstaller 1.4.33 (2018-03-15)
+
+  Improved scan leftovers.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 1.4.30 (2018-03-12)
+
+  Improved scan leftovers.
+  Improve the uninstall of some popular software.
+  Minor GUI improvements. 
+
+
+HiBit Uninstaller 1.4.28 (2018-03-08)
+
+  Improved scan leftovers.
+  Improve the display of applications icon.
+  Minor bugs fixed. 
+
+
+HiBit Uninstaller 1.4.24 (2018-03-06)
+
+  Improved scan leftovers.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 1.4.22 (2018-03-04)
+
+  Improved Junk Files Cleaner performance.
+  Added "cleanup & Exit" feature(Portable version).
+  Minor bugs fixed.
+
+
+HiBit Uninstaller 1.4.21 (2018-03-03)
+
+  Improved scan leftovers.
+  Improved Startup Manager performance.
+  Improved Services Manager performance.
+  Improved Registry Cleaner performance.
+  Improved Junk Files Cleaner performance.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 1.4.15 (2018-02-26)
+
+  Improved scan leftovers.
+  Improved Empty Folder Cleaner performance and added more features.
+  Improved Shortcuts Fixer performance and added more features.
+  Improved Processes Manager performance and added more features.
+  Improved Services Manager performance and added more features.
+  Improved Scheduler Task Manager performance and added more features.
+  Improved Context Menu Manager and added more features.
+  Improved Registry Cleaner performance.
+  Improved Junk Files Cleaner performance.
+  Improved Startup Manager performance.
+  Improved Backup Manager performance.
+  Improved User Interface.
+  Minor bugs fixed.
+
+
+HiBit Uninstaller 1.3.20 (2018-02-13)
+
+  Added ability Automatically clean up after uninstalled program.
+  Improve Scheduler Task Manager performance.
+  Minor GUI improvements.
+  Many bugs fixed.
+
+
+HiBit Uninstaller 1.3.10 (2018-02-05)
+
+  Added ability to get registry backup before uninstalling.
+  Added Backup Manager.
+  Improved the function of scan leftovers.
+  Improve registry cleaner performance.
+  Improve startup Manager performance.
+  Improve File checksum performance.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 1.2.10 (2018-01-28)
+
+  Added Browser Extension Manager.
+  Improved the function of scan leftovers.
+  Improve Context Menu Manager performance.
+  Improve System Restore Manager performance.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Uninstaller 1.1.20 (2018-01-16)
+
+  Improve the performance and Interface.
+  Minor bugs fixed.
+
+
+HiBit Uninstaller 1.1.15 (2018-01-14)
+
+  Added ability to batch uninstall programs.
+  Added Support drag and drop to Uninstall the program.
+  Added System Restore Manager.
+  Improve Junk Files Cleaner Performance.
+  Minor bugs fixed.
+
+
+HiBit Uninstaller 1.0.20 (2018-01-05)
+
+  Improve virustotalScanner Performance.
+  Improve User Interface
+  Added startup edit feature.
+  Minor bugs fixed.
+
+
+HiBit Uninstaller 1.0.16 (2018-01-02)
+
+  Minor bugs fixed.
+  Minor enhancements and compatibility fixes.
