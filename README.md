@@ -16,7 +16,7 @@ HiBit Uninstaller 是一款轻量、免费、无广告的 Windows 平台第三�
 | **系统要求** | Windows 7 / 8 / 8.1 / 10 / 11（支持 32/64 位）               |
 | **运行权限** | 建议右键选择 `以管理员身份运行`                              |
 | **安全建议** | 卸载重要软件前，建议手动创建系统还原点或备份关键数据         |
-| **版本获取** | 仅推荐从官网 [`https://www.hibitsoft.ir/`]() 或可信渠道下载，避免捆绑版 |
+| **版本获取** | 仅推荐从官网[Hibit Software](http://www.hibitsoft.ir/) has no title attribute.或可信渠道下载，避免捆绑版 |
 
 ---
 
