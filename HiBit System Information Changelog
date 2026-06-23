@@ -1,0 +1,130 @@
+HiBit System Information Changelog
+----------------------------------------
+
+HiBit System Information 2.1.30 (2025-01-15)
+
+  Added Show Desktop Runtime and Visual C++ versions in the Software section.
+  Updated Devices list.
+  Minor bugs fixes.
+
+
+HiBit System Information 2.1.20 (2024-01-18)
+
+  Added more details in the hardware section.
+  Updated Devices list.
+  Minor bugs fixes.
+
+
+HiBit System Information 2.1.10 (2023-04-25)
+
+  Updated Devices list.
+  Added "TPM version" in Motherboard section.
+  GUI improvements and bug fixes.
+
+
+HiBit System Information 2.0.35 (2022-01-25)
+
+  Updated CPU code name list.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit System Information 2.0.30 (2021-10-02)
+
+  Compatible with Windows 11 preview.
+  Updated CPU code name list.
+  Minor bugs fixes.
+
+
+HiBit System Information 2.0.25 (2021-01-02)
+
+  Minor GUI improvements and bug fixes.
+
+
+HiBit System Information 2.0.20 (2020-10-29)
+
+  Updated CPU code name list.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit System Information 2.0.15 (2020-03-11)
+
+  Updated CPU code name list.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit System Information 2.0.10 (2020-02-16)
+
+  Added "Battery" section.
+  Added "Update Center" tool.
+  Added Dark theme.
+  Added more details in the "Disk Drive" section.
+  Improved Disk S.M.A.R.T. and added more features.
+  Improved Security section.
+  Improved overall program performance.
+  Updated CPU code name list.
+  Removed "Event logs" section.
+  Removed Windows XP support.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit System Information 1.5.30 (2019-05-15)
+
+  Updated CPU code name list.
+  Added Instructions details in the CPU section.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit System Information 1.5.25 (2019-01-15)
+
+  Fix font size problem on some systems.
+  Improved overall program performance.
+
+
+HiBit System Information 1.5.23 (2018-11-05)
+
+  Improved details in the "Operating System" section.
+  Minor GUI improvements.
+
+
+HiBit System Information 1.5.20 (2018-09-26)
+
+  Updated CPU code name list.
+  Improved Check update option.
+
+
+HiBit System Information 1.5.12 (2018-09-08)
+
+  Updated CPU code name list.
+  Minor GUI improvements.
+
+
+HiBit System Information 1.5.10 (2018-09-06)
+
+  Added more details in the "CPU" section.
+  Improved Storage section Details.
+  The main app icon changed.
+  App size dropped.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit System Information 1.0.60 (2018-02-01)
+
+  Updated disk S.M.A.R.T. api.
+  Improved windows update list functions.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit System Information 1.0.27 (2017-11-16)
+
+  minor bugs fixed.
+
+
+HiBit System Information 1.0.25 (2017-11-14)
+
+  Improved the performance of the installed programs in Windows 64bit.
+  minor bugs fixed.
+
+
+HiBit System Information 1.0.20 (2017-11-13)
+
+  Minor enhancements and compatibility fixes.
