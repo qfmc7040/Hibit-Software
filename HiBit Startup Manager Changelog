@@ -1,0 +1,283 @@
+HiBit Startup Manager Changelog
+-----------------------------------------
+
+HiBit Startup Manager 2.6.60 (2025-01-15)
+
+  Added support for UWP apps in Context Menu Manager tool.
+  Improved detection of UWP apps in Startup Manager tool.
+  Updated VirusTotal API.
+  Fixed minor bugs.
+
+
+HiBit Startup Manager 2.6.50 (2024-09-25)
+
+  Added Polish language.
+  Fixed minor bugs.
+
+
+HiBit Startup Manager 2.6.45 (2024-07-07)
+
+  Added traditional Chinese language.
+  Fixed all known bugs.
+
+
+HiBit Startup Manager 2.6.40 (2024-04-08)
+
+  Added auto game mode to System Monitoring tool.
+  Improved the creation of new startups.
+  Fixed minor bugs.
+
+
+HiBit Startup Manager 2.6.35 (2024-02-18)
+
+  Improved detection of UWP apps.
+  Improve VirusTotal scanner Performance.
+  Fixed minor bugs.
+
+
+HiBit Startup Manager 2.6.30 (2024-01-23)
+
+  Redesigned and improved VirusTotal scanner tool.
+  Added ability to use private API in VirusTotal scanner tool.
+  Improved GUI and bug fixes.
+
+
+HiBit Startup Manager 2.6.20 (2023-10-27)
+
+  Added Spanish and Hungarian language.
+  Improved GUI and bug fixes.
+
+
+HiBit Startup Manager 2.6.12 (2023-05-21)
+
+  Fixed minor bugs.
+
+
+HiBit Startup Manager 2.6.10 (2023-04-30)
+
+  Added Boot Optimizer tool.
+  Redesigned System Monitoring rule windows.
+  Improved GUI and bug fixes.
+
+
+HiBit Startup Manager 2.5.15 (2022-12-17)
+
+  Added Backup/Restore settings button in About window.
+  Improved GUI and bug fixes.
+
+
+HiBit Startup Manager 2.5.10 (2022-12-06)
+
+  Added the ability to monitor Windows policies.
+  Added show notification for blocked apps.
+  Added the ability to show programs that start from task.
+  Added the ability to change the default search engine according to the selected language.
+  Added the ability to change the font size of lists by pressing ctrl + (+/-).
+  Added the ability to display all system context menus in the Context Menu Manager tool.
+  Improved user interface.
+  Updated all languages.
+  Fixed all known bugs.
+
+
+HiBit Startup Manager 2.3.20 (2022-01-25)
+
+  Added Slovenian language.
+  Improved GUI and fixed all known bugs.
+
+
+HiBit Startup Manager 2.3.15 (2022-01-14)
+
+  Added German language.
+  Minor GUI improvements.
+
+
+HiBit Startup Manager 2.3.10 (2022-01-03)
+
+  Added support for UWP apps.
+  Added the ability to save app settings and data next to the program executable file in the portable version.
+  Added "Block New Processes" option in the Processes Manager tool.
+  Added ability to add applications in the rules list window.
+  Added reset settings button in About window.
+  Added the ability to change the font size of lists by pressing ctrl and Scroll wheel.
+  Improved GUI and fixed all known bugs.
+
+
+HiBit Startup Manager 2.2.25 (2021-01-02)
+
+  GUI improvements and bug fixes.
+
+
+HiBit Startup Manager 2.2.20 (2020-11-02)
+
+  Scheduler Task Manager performance Improved.
+  GUI improvements and bug fixes.
+
+
+HiBit Startup Manager 2.2.10 (2020-10-12)
+
+  Monitoring of Service, Scheduler Task and context menus added.
+  Korean language added.
+  "Windows 10 SlateGray" and "Cobalt XEMedia" themes added.
+  Gray color and the ability to select the desired color for the program header added.
+  "Hide Microsoft Entries" option added to the "Process Manager".
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Startup Manager 2.1.25 (2020-03-11)
+
+  All translations updated.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Startup Manager 2.1.20 (2020-02-16)
+
+  Theme support added.
+  Chinese and Italian languages added.
+  Windows XP support removed.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Startup Manager 2.0.60 (2019-10-29)
+
+  French language added.
+  Improved "Context Menu Manager".
+  Minor bugs fixed.
+
+
+HiBit Startup Manager 2.0.50 (2019-07-18)
+
+  Improved "Context Menu Manager".
+  Improved "System Restore Manager".
+  Improved overall program performance.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Startup Manager 2.0.15 (2019-02-17)
+
+  Improved "Services Manager" performance and added more features.
+  Minor bugs fixed.
+
+
+HiBit Startup Manager 2.0.10 (2019-01-25)
+
+  Added multi-language support.
+  Added "Update Center" tool.
+  Aded "Startup Impact" column.
+  Added a few partial capabilities.
+  Compatibility of Enable/Disable option with Windows 8/10.
+  Improved User Interface.
+  Improved Process Manager performance and added more features.
+  Improve virustotalScanner Performance.
+  Improve Services Manager Performance.
+  Improve Scheduler Task Manager Performance.
+  Improve Context Menu Manager Performance.
+  Improve System Restore Manager Performance.
+  Improve virustotal Scanner Performance.
+  Improved Startup Monitoring performance and Interface.
+  The main app icon changed.
+  Fix font size problem on some systems.
+  Many bugs fixed.
+
+
+HiBit Startup Manager 1.3.50 (2018-04-13)
+
+  Improved Startup Monitoring performance and Interface.
+  Added virustotal detection ratio column.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Startup Manager 1.3.50 (2018-04-13)
+
+  Improved Startup Monitoring performance and Interface.
+  Added virustotal detection ratio column.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Startup Manager 1.3.20 (2018-04-04)
+
+  Improved Startup Monitoring.
+  Improved Services Manager.
+  Remember main window position between app launches.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Startup Manager 1.3.16 (2018-03-06)
+
+  Added "cleanup & Exit" feature(Portable version).
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Startup Manager 1.3.15 (2018-03-03)
+
+  Added support "Windows/Load" entries.
+  Improved Startup Monitoring performance.
+  Improved Services Manager performance.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Startup Manager 1.3.11 (2018-03-03)
+
+  Added search box in main window.
+  Improved Processes Manager performance and added more features.
+  Improved Services Manager performance and added more features.
+  Improved Scheduler Task Manager performance and added more features.
+  Improved Context Menu Manager and added more features.
+  Improved Startup Manager performance.
+  Improved User Interface.
+  Minor bugs fixed.
+
+
+HiBit Startup Manager 1.2.63 (2018-02-13)
+
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Startup Manager 1.2.60 (2018-02-05)
+
+  Added ability to restore delay program(Undelay).
+  Added support Winlogon startup program.
+  Improve backup Manager performance.
+  Improve File checksum performance.
+  Minor GUI improvements and bug fixes.
+
+
+HiBit Startup Manager 1.2.50 (2018-01-27)
+
+  Improved the function of scan Dangerous StartUp.
+  Improve Context Menu Manager performance.
+  Improve System Restore Manager performance.
+  Minor GUI improvements and bug fixes. 
+
+
+HiBit Startup Manager 1.2.15 (2018-01-14)
+
+  Added System Restore Manager.
+  Improve virustotalScanner Performance.
+  Improve User Interface.
+  Minor bugs fixed.
+
+
+HiBit Startup Manager 1.1.20 (2017-12-06)
+
+  Added update check feature.
+  Added virustotal scanner feature.
+  Improve the performance and Interface.
+  Minor bugs fixed.
+
+
+HiBit Startup Manager 1.0.28 (2017-11-19)
+
+  Added support for windows vista.
+  Minor enhancements and compatibility fixes.
+
+
+HiBit Startup Manager 1.0.27 (2017-11-16)
+
+  minor bugs fixed.
+
+
+HiBit Startup Manager 1.0.26 (2017-11-15)
+
+  fix bug about try icon on Windows 7.
+  Performance improvements in Windows 10.
+  Minor enhancements and compatibility fixes.
