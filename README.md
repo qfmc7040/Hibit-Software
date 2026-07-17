@@ -1,3 +1,5 @@
+# .ir伊朗顶级域名不稳定，仅作为HiBitSoftware软件备份
+
 # HiBit Uninstaller 使用说明与卸载指南
 
 
